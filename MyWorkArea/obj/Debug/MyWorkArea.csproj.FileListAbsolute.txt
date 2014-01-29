@@ -1,0 +1,7 @@
+E:\MyWork\R&D\MyWorkArea\MyWorkArea\MyWorkArea\bin\MyWorkArea.dll
+E:\MyWork\R&D\MyWorkArea\MyWorkArea\MyWorkArea\bin\MyWorkArea.pdb
+E:\MyWork\R&D\MyWorkArea\MyWorkArea\MyWorkArea\bin\Newtonsoft.Json.dll
+E:\MyWork\R&D\MyWorkArea\MyWorkArea\MyWorkArea\bin\Newtonsoft.Json.xml
+E:\MyWork\R&D\MyWorkArea\MyWorkArea\MyWorkArea\obj\Debug\ResolveAssemblyReference.cache
+E:\MyWork\R&D\MyWorkArea\MyWorkArea\MyWorkArea\obj\Debug\MyWorkArea.dll
+E:\MyWork\R&D\MyWorkArea\MyWorkArea\MyWorkArea\obj\Debug\MyWorkArea.pdb
